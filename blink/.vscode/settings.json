@@ -15,5 +15,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=/home/yosis/Documents/esp firmware/esp-firmware/blink/build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
